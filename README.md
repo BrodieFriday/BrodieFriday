@@ -1,4 +1,4 @@
-- #print("Hello World! 👋 ")
+#print("Hello World! 👋 ")
 - 👋 Hi, I’m @BrodieFriday
 - 👀 I’m interested in all things programming.
 - 🌱 I’m currently studying computer science at Western Illinois University.
