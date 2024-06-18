@@ -1,6 +1,6 @@
 # Brodie Friday
 
-I am a full stack software developer with a passion for creating innovative and efficient solutions. I enjoy working on a variety of projects, from web development to mobile applications, and I'm alwyas eager to learn new technologies and improve my skills.
+I am a full stack software developer with a passion for creating innovative and efficient solutions. I enjoy working on a variety of projects, from web development to mobile applications, and I'm always eager to learn new technologies and improve my skills.
 - 📫 How to reach me, www.linkedin.com/in/brodiefriday
 
 <!---
